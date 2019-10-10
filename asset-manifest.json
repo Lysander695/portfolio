@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5fcde918.chunk.css",
+    "main.js": "/portfolio/static/js/main.734bd86a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.734bd86a.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.cbff171f.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.cbff171f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/portfolio/static/css/2.266e55a5.chunk.css",
+    "static/js/2.bfa5f346.chunk.js": "/portfolio/static/js/2.bfa5f346.chunk.js",
+    "static/js/2.bfa5f346.chunk.js.map": "/portfolio/static/js/2.bfa5f346.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.ddc0942dd0ae510ef9a47b40a19ca4a9.js": "/portfolio/precache-manifest.ddc0942dd0ae510ef9a47b40a19ca4a9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/portfolio/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5fcde918.chunk.css.map": "/portfolio/static/css/main.5fcde918.chunk.css.map",
+    "static/media/colorado.jpg": "/portfolio/static/media/colorado.2183c887.jpg",
+    "static/media/index.css": "/portfolio/static/media/introbackground.b769f703.jpg",
+    "static/media/port.jpg": "/portfolio/static/media/port.1104d6b8.jpg",
+    "static/media/soon.jpg": "/portfolio/static/media/soon.c67bd701.jpg",
+    "static/media/watch.jpg": "/portfolio/static/media/watch.3360c5d9.jpg"
+  }
+}
